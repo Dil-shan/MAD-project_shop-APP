@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "877420497735",
+    "project_id": "mad-project-new-eed30",
+    "storage_bucket": "mad-project-new-eed30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877420497735:android:620966b8f5f2f3d05c9a62",
+        "android_client_info": {
+          "package_name": "com.toyshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877420497735-bq71sf5f9n06v98d67r7g3icem0tl4bu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiTshNAqIjxVNJB72AVKx0iVAIgDbKajU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877420497735-bq71sf5f9n06v98d67r7g3icem0tl4bu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
